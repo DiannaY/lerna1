@@ -6,7 +6,10 @@
     "bootstrap": {
       "hoist": true,
       "registry": "http://localhost:4873"
+    },
+    "publish": {
+      "registry": "http://localhost:4873"
     }
   },
-  "version": "0.0.8"
+  "version": "0.0.9"
 }

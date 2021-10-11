@@ -1,6 +1,6 @@
 {
   "name": "@lerna1/cli",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "> TODO: description",
   "author": "dianhua.yang <2421981682@qq.com>",
   "homepage": "https://github.com/DiannaY/lerna1#readme",
@@ -12,9 +12,6 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "registry": "http://localhost:4873"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DiannaY/lerna1.git"
@@ -26,6 +23,7 @@
     "url": "https://github.com/DiannaY/lerna1/issues"
   },
   "dependencies": {
-    "@lerna1/create": "^0.0.8"
-  }
+    "@lerna1/create": "^0.0.9"
+  },
+  "gitHead": "3e1fdad206c474714f0d4d9f492de18e8f01a4e9"
 }

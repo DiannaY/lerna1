@@ -1,6 +1,6 @@
 {
   "name": "@lerna1/create",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "> TODO: description",
   "author": "dianhua.yang <2421981682@qq.com>",
   "homepage": "",
@@ -12,11 +12,8 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "registry": "http://localhost:4873"
-  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "91a29acf0358cd4db6df57a46175d0cf30ae6825"
+  "gitHead": "3e1fdad206c474714f0d4d9f492de18e8f01a4e9"
 }
