@@ -1,6 +1,6 @@
 {
   "name": "@lerna1/create",
-  "version": "0.0.4",
+  "version": "0.0.3",
   "description": "> TODO: description",
   "author": "dianhua.yang <2421981682@qq.com>",
   "homepage": "",
@@ -12,6 +12,9 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "registry": "http://localhost:4873"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
