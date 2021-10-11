@@ -655,7 +655,7 @@
     fs-extra "^9.1.0"
     npmlog "^4.1.2"
 
-"@lerna/create@4.0.0":
+"@lerna/create@4.0.0", "@lerna/create@^4.0.0":
   version "4.0.0"
   resolved "https://registry.npm.taobao.org/@lerna/create/download/@lerna/create-4.0.0.tgz?cache=0&sync_timestamp=1612998736394&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40lerna%2Fcreate%2Fdownload%2F%40lerna%2Fcreate-4.0.0.tgz#b6947e9b5dfb6530321952998948c3e63d64d730"
   integrity sha1-tpR+m137ZTAyGVKZiUjD5j1k1zA=
