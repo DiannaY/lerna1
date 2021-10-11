@@ -16,10 +16,10 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://localhost:4873/"
+    "registry": "http://localhost:4873"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "3c9c3d01ffdb5884bb1f033f45a82aa3bbb3ea02"
+  "gitHead": "91a29acf0358cd4db6df57a46175d0cf30ae6825"
 }
