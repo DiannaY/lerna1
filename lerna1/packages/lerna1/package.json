@@ -1,6 +1,6 @@
 {
   "name": "lerna1",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "lerna1",
   "keywords": [
     "lerna1"
@@ -21,5 +21,8 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "91a29acf0358cd4db6df57a46175d0cf30ae6825"
+  "gitHead": "91a29acf0358cd4db6df57a46175d0cf30ae6825",
+  "dependencies": {
+    "@lerna1/create": "^0.0.6"
+  }
 }
