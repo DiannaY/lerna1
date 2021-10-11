@@ -5,6 +5,9 @@
     "jest": "^27.2.5",
     "lerna": "^4.0.0"
   },
+  "publishConfig": {
+    "registry": "http://localhost:4873"
+  },
   "script": {
     "test": "jest"
   }
