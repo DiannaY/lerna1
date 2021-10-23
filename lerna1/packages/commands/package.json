@@ -1,0 +1,24 @@
+{
+  "name": "commands",
+  "version": "0.0.0",
+  "description": "commands",
+  "keywords": [
+    "commands"
+  ],
+  "author": "dianhua.yang <2421981682@qq.com>",
+  "homepage": "https://github.com/DiannaY/lerna1#readme",
+  "license": "ISC",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/DiannaY/lerna1/issues"
+  }
+}
