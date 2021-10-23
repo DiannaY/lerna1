@@ -2,6 +2,6 @@
 
 const commands = require('..');
 
-describe('commands', () => {
+describe('@lerna1/commands', () => {
     it('needs tests');
 });
