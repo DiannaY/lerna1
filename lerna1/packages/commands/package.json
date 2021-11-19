@@ -1,6 +1,6 @@
 {
   "name": "@lerna1/commands",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "commands",
   "keywords": [
     "commands"
@@ -22,6 +22,6 @@
     "url": "https://github.com/DiannaY/lerna1/issues"
   },
   "dependencies": {
-    "@lerna1/create": "^0.0.13"
+    "@lerna1/create": "^0.0.14"
   }
 }
