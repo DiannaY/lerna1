@@ -1,5 +1,5 @@
 function create() {
-    return 'create';
+    return 'create1';
 }
 
 module.exports = create;
