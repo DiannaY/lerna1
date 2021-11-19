@@ -16,7 +16,7 @@
     "lib"
   ],
   "scripts": {
-    "test": "jest"
+   "test": "jest"
   },
   "bugs": {
     "url": "https://github.com/DiannaY/lerna1/issues"
