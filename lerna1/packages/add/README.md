@@ -1,11 +1,11 @@
-# `lerna1`
+# `@lerna1/add`
 
 > TODO: description
 
 ## Usage
 
 ```
-const lerna1 = require('lerna1');
+const add = require('@lerna1/add');
 
 // TODO: DEMONSTRATE API
 ```

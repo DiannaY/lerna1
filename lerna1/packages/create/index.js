@@ -1,1 +1,5 @@
-console.log('this is lerna create4')
+function create() {
+    return 'create';
+}
+
+module.exports = create;

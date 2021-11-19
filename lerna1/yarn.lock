@@ -1168,6 +1168,14 @@
     npmlog "^4.1.2"
     write-file-atomic "^3.0.3"
 
+"@lerna1/create@^0.0.1":
+  version "0.0.10"
+
+"@lerna1/create@^0.0.6":
+  version "0.0.6"
+  resolved "http://localhost:4873/@lerna1%2fcreate/-/create-0.0.6.tgz#418ebdf34af76ef2046133e808eb5d3de6b4fd3d"
+  integrity sha512-l+pixzdc7Z73zdGbgIqizaeqlhtGAIjwaJrtdgJHcQcsWtTWbBA3yypi0tuDpH3nVTR0p+8G5kp9FOITYQzXrw==
+
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
   resolved "https://registry.nlark.com/@nodelib/fs.scandir/download/@nodelib/fs.scandir-2.1.5.tgz?cache=0&sync_timestamp=1622792706054&other_urls=https%3A%2F%2Fregistry.nlark.com%2F%40nodelib%2Ffs.scandir%2Fdownload%2F%40nodelib%2Ffs.scandir-2.1.5.tgz#7619c2eb21b25483f6d167548b4cfd5a7488c3d5"
@@ -1449,9 +1457,9 @@
   integrity sha1-7nceK6Sz3Fs3KTXVSf2WF780W4w=
 
 "@types/node@*":
-  version "16.11.2"
-  resolved "https://registry.npmmirror.com/@types/node/download/@types/node-16.11.2.tgz?cache=0&sync_timestamp=1634814168290&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fnode%2Fdownload%2F%40types%2Fnode-16.11.2.tgz#31c249c136c3f9b35d4b60fb8e50e01a1f0cc9a5"
-  integrity sha1-McJJwTbD+bNdS2D7jlDgGh8MyaU=
+  version "16.11.4"
+  resolved "https://registry.npmmirror.com/@types/node/download/@types/node-16.11.4.tgz?cache=0&sync_timestamp=1634971567684&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2F%40types%2Fnode%2Fdownload%2F%40types%2Fnode-16.11.4.tgz#90771124822d6663814f7c1c9b45a6654d8fd964"
+  integrity sha1-kHcRJIItZmOBT3wcm0WmZU2P2WQ=
 
 "@types/normalize-package-data@^2.4.0":
   version "2.4.1"

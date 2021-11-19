@@ -1,9 +1,9 @@
 {
-  "name": "@lerna1/create",
+  "name": "@lerna1/add",
   "version": "0.0.10",
   "description": "> TODO: description",
   "author": "dianhua.yang <2421981682@qq.com>",
-  "homepage": "",
+  "homepage": "https://github.com/DiannaY/lerna1#readme",
   "license": "ISC",
   "directories": {
     "lib": "lib",
@@ -15,5 +15,7 @@
   "scripts": {
     "test": "jest"
   },
-  "gitHead": "3e1fdad206c474714f0d4d9f492de18e8f01a4e9"
+  "bugs": {
+    "url": "https://github.com/DiannaY/lerna1/issues"
+  }
 }

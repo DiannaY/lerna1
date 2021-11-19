@@ -1,1 +1,5 @@
-console.log('cli')
+function cli() {
+    return 'cli';
+}
+
+module.exports = cli;

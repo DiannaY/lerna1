@@ -11,5 +11,7 @@
       "registry": "http://localhost:4873"
     }
   },
+  "npmClient": "yarn",
+  "useWorkspace": true,
   "version": "0.0.10"
 }

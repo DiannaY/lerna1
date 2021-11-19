@@ -3,5 +3,7 @@
 const commands = require('..');
 
 describe('@lerna1/commands', () => {
-    it('needs tests');
+    it('needs tests', () => {
+        expect(commands()).toBe('commands');
+    });
 });
