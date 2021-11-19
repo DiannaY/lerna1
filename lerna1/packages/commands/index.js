@@ -1,5 +1,5 @@
 function commands() {
-    return 'commands';
+    return 'commands1';
 }
 
 module.exports = commands;
