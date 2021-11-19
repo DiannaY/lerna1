@@ -23,7 +23,7 @@
     "url": "https://github.com/DiannaY/lerna1/issues"
   },
   "dependencies": {
-    "@lerna1/create": "^0.0.6"
+    "@lerna1/create": "^0.0.13"
   },
   "gitHead": "3e1fdad206c474714f0d4d9f492de18e8f01a4e9"
 }
